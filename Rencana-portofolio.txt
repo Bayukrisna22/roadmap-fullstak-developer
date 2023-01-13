@@ -1,3 +1,6 @@
 Rencana membuat portofolio
 -membuat akun istagram
+  *menentukan logo
+  *menentukan copywritimg
+ 
 -memulai branding
