@@ -3,4 +3,4 @@ Roadmap Fullstak Developer
 -CSS
 -Javacript
 -CSS Framework
--Belajar dasar back end developer
+-membuat study kasus CSS
